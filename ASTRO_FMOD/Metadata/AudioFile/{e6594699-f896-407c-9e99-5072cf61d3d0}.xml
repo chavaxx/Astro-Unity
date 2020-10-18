@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e6594699-f896-407c-9e99-5072cf61d3d0}">
+		<property name="assetPath">
+			<value>Niveles/nivel3/sfx_niv3__monstruo_2_aparece.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.49600907029478458</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9f3445a9-cbd7-48a6-999f-e99b596e69c1}</destination>
+		</relationship>
+	</object>
+</objects>

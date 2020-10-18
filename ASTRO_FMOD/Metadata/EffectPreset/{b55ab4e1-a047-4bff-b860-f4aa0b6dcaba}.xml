@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EffectPreset" id="{b55ab4e1-a047-4bff-b860-f4aa0b6dcaba}">
+		<property name="name">
+			<value>ReverbAsteroids</value>
+		</property>
+		<relationship name="folder">
+			<destination>{58fdf966-1c34-4201-acb6-5c9caa901af6}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{c0e4cd32-2d89-41b0-ab87-47ce031125e5}</destination>
+		</relationship>
+	</object>
+	<object class="SFXReverbEffect" id="{c0e4cd32-2d89-41b0-ab87-47ce031125e5}">
+		<property name="highCut">
+			<value>20000</value>
+		</property>
+		<property name="wetLevel">
+			<value>-30</value>
+		</property>
+	</object>
+</objects>

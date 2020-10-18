@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e07e9269-b22a-4ec7-a0a0-ace2bee54a56}">
+		<property name="assetPath">
+			<value>Niveles/nivel2/sfx_niv2_starVoxAndCapture_b.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.0616874999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9f3445a9-cbd7-48a6-999f-e99b596e69c1}</destination>
+		</relationship>
+	</object>
+</objects>

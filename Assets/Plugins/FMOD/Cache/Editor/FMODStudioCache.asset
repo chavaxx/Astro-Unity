@@ -1,0 +1,4639 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9168056447335349206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mainMenu/UI/buttonRArrow
+  m_EditorClassIdentifier: 
+  Path: event:/mainMenu/UI/buttonRArrow
+  guid: 0a8f92eb18897f42b08eb3a14d908279
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1358
+--- !u!114 &-9117524736574381296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/idleLoop_engine
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/idleLoop_engine
+  guid: fce715fdbe5bee49b49511b1fead00f6
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5000
+--- !u!114 &-9052512449414730694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/gp_nivel1/hitByAsteroid_gameOver
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/gp_nivel1/hitByAsteroid_gameOver
+  guid: ed067a6e7a0c7946a21f9a69537b33fe
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1490
+--- !u!114 &-9016064354527123228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362193580000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8956895258728104620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364086020000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8695313600895055480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362307870000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8677506262202703014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/NPC_Vox/NPC_VOX_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/NPC_Vox/NPC_VOX_R
+  guid: ab375630e98c2747b60d849c870e14b3
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1348
+--- !u!114 &-8663860829146187717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &-8492837022110022441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LaserBlast_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LaserBlast_R
+  guid: 2723f5b0483f224cb4f0b94379785ba9
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2409
+--- !u!114 &-8487444646005618090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematic_1_linear/play_cin1_linear
+  m_EditorClassIdentifier: 
+  Path: event:/cinematic_1_linear/play_cin1_linear
+  guid: 5cf792ad9a65534c9e9431cbbfa608c1
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 31181
+--- !u!114 &-8461158498654969840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mainMenu/UI/buttonReturn
+  m_EditorClassIdentifier: 
+  Path: event:/mainMenu/UI/buttonReturn
+  guid: 4149c6ef7ea8cf4e90e2f572caf8a729
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2400
+--- !u!114 &-8344192514192752899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359626810000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8307576126394415159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359539920000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8295977484227398092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mainMenu/UI/buttonAccept
+  m_EditorClassIdentifier: 
+  Path: event:/mainMenu/UI/buttonAccept
+  guid: a23d14e623cd1f42989ae5be21cf4fc2
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5454
+--- !u!114 &-8276063448753767813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 1
+--- !u!114 &-7976203422436875486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/engineOn_and_IdleLoop
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/engineOn_and_IdleLoop
+  guid: a8436d02c5d5fa44b67038d0ab5e39f3
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5166
+--- !u!114 &-7749094852651348548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365721760000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-7697624494266016043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_2/play_music_instrucciones_2
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_2/play_music_instrucciones_2
+  guid: ef9c4d387da1ff44bc21d9893149138e
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 26500
+--- !u!114 &-7668610488639601405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_5/play_bgs_space_instrucciones_4
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_5/play_bgs_space_instrucciones_4
+  guid: d1aa9d07d7ae744e8dc8270238ad41b6
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 27105
+--- !u!114 &-7562744168563961285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364047150000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7494308126306635765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362119420000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7115852439550375878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362162330000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6971034186226133487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365514250000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6867543107918733451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362992020000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6817567847243615027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364226150000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6813597061920367970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/play_winner_1
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/play_winner_1
+  guid: 2c05d00a47bf24408c2158302c447098
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5643
+--- !u!114 &-6708119466337110482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/Lasers/LaserBlast_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/Lasers/LaserBlast_R
+  guid: 2723f5b0483f224cb4f0b94379785ba9
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1094
+--- !u!114 &-6608481280360475808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/NPC_Vox/NPC_VOX_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/NPC_Vox/NPC_VOX_C
+  guid: 954dd8706df60f438dea26940c39027a
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1348
+--- !u!114 &-6526005428859702062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/play_bgs_afterGame
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/play_bgs_afterGame
+  guid: 09e5c599bf5e39488d12154c11df5b59
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 11233
+--- !u!114 &-6303926754503635413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362182430000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6231491915100394118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/cleanersAction/cleanersAction_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/cleanersAction/cleanersAction_R
+  guid: 0b968cf068bd1e459163e82db8f95ea1
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4254
+--- !u!114 &-6221062896066232938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362186990000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6212906603277610973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/cleanersAction/cleanersAction_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/cleanersAction/cleanersAction_L
+  guid: 078d06ac7ee834409f051d09499b9f78
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4254
+--- !u!114 &-6199214239428712452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364081830000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6154981599895825020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362428900000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6120118372501925568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/startGame
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/startGame
+  guid: a7c808ec9e071b4bb5aa82540ea40323
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6819
+--- !u!114 &-6091661927057588588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364101660000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6085808374586460248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365457080000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6028667077510758861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/stop_play_instrucciones_1
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/stop_play_instrucciones_1
+  guid: b7feadd9b19fa44285488358a0128c92
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 8742
+--- !u!114 &-5913297915114807827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_C
+  guid: 9a9fbced4c52264c9ba7314b56179ff0
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2409
+--- !u!114 &-5906806193612176919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 1
+--- !u!114 &-5878208115939109199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637361453550000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5858408353924177436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363028580000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5788147119051483690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362155240000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5777413834941742930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  guid: 2cc327284caedd4688d18f28cf7cd178
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1350
+--- !u!114 &-5776738077720461957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362188450000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5756654377976382561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/NPC_Vox/NPC_VOX_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/NPC_Vox/NPC_VOX_L
+  guid: fb954f9d1dbb454db9b315fbd2aa89e2
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1348
+--- !u!114 &-5750592547160593783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365749000000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5726984062443438998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_4/play_bgs__instrucciones_5
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_4/play_bgs__instrucciones_5
+  guid: d352330db704cc49a8e1e8328eed782a
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 15511
+--- !u!114 &-5656041919899754908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363019280000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5571311816294628280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362137360000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5565356626856216299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362326900000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5536733116550798977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362945570000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5475764125809469963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/slowMov_Loop
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/slowMov_Loop
+  guid: 399b6e569e36244098f7e12fff7900a8
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1000
+--- !u!114 &-5406123351045237372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/alienStamp/alienStamp_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/alienStamp/alienStamp_R
+  guid: d316401cc1169c4cb4bad4474f7cb46b
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 990
+--- !u!114 &-5403611425992243516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &-5332811360327746809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  guid: 2cc327284caedd4688d18f28cf7cd178
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1350
+--- !u!114 &-5298666596337027583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363027420000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5250275118971681667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359804040000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5247190334030287782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365467970000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5008977857113040059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359698540000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4723465273333350608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362149420000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4705782851759340330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364061720000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4652260406426056117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  guid: ce05448c9483b54aaa7f3bb1cfbb307d
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1350
+--- !u!114 &-4642784004967427021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/play_winner_2
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/play_winner_2
+  guid: e0a990381ba2c847904a4f8ddff53673
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3987
+--- !u!114 &-4602796122718235709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363196200000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4451669839838889938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &-4352041617853210906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359802860000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4217424514682277681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365757750000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-3996907612832451951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363028190000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3912575226580583391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362559320000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3721446888344412665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/gp_nivel1/hitByAsteroid_gameOver
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/gp_nivel1/hitByAsteroid_gameOver
+  guid: ed067a6e7a0c7946a21f9a69537b33fe
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1490
+--- !u!114 &-3664594960556902101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_L
+  guid: 06b4b0c24c07bd4ea3d5429322f19da3
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2409
+--- !u!114 &-3622781337913915627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MainMenu/UI/buttonAccept
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenu/UI/buttonAccept
+  guid: a23d14e623cd1f42989ae5be21cf4fc2
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5454
+--- !u!114 &-3555312267460541402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MainMenu/mainMenu_music/play_mm_music
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenu/mainMenu_music/play_mm_music
+  guid: 67b140f1639f8945af04b759ff7f5845
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 168542
+--- !u!114 &-3518915685335267737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &-3476342879003007438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &-3418824839013114365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362324790000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3389804141175119339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_3/play_bgs_space_instrucciones3
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_3/play_bgs_space_instrucciones3
+  guid: ee489f752bcf734bab83fa91636253b3
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 30500
+--- !u!114 &-3373654064241981618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_2/play_bgs_instrucciones_3
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_2/play_bgs_instrucciones_3
+  guid: 4bc4420e19d4f245850f94a970dc9f7f
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 10500
+--- !u!114 &-3356833908950195803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/LevelMusic/stop_level_music_3
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/LevelMusic/stop_level_music_3
+  guid: 51de76da9e4f504e8eaf4a78c2ce9f83
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6000
+--- !u!114 &-3209472465132980600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362324830000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3184902352469061062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LaserBlast_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LaserBlast_C
+  guid: 9a9fbced4c52264c9ba7314b56179ff0
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2409
+--- !u!114 &-3153531859197514404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  guid: 40731b0ee94396418e6ef6ac6ad17120
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1350
+--- !u!114 &-3148463680942781660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362174950000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3138881142261437126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mainMenu/UI/buttonLArrow
+  m_EditorClassIdentifier: 
+  Path: event:/mainMenu/UI/buttonLArrow
+  guid: da4aa5c173bd5345a9f17b70e4549f80
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1358
+--- !u!114 &-3094629097946535590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362168630000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3051949308792144819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364057870000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2996622594572538748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362324140000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2862911241972790689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/ship_Turbo
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/ship_Turbo
+  guid: 1686c0add50a9e418ac4a2177b8ff68d
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 12880
+--- !u!114 &-2671645120386952429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MainMenu/UI/buttonLArrow
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenu/UI/buttonLArrow
+  guid: da4aa5c173bd5345a9f17b70e4549f80
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1358
+--- !u!114 &-2666013627097507190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &-2548707195126679474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363215720000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2527821952774114231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 1
+--- !u!114 &-2446459855821780629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/gp_nivel1/hitByAsteroid
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/gp_nivel1/hitByAsteroid
+  guid: 3426484d53df7b46b62751ead94e91b0
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1439
+--- !u!114 &-2401499866670397075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_R
+  guid: 2723f5b0483f224cb4f0b94379785ba9
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2409
+--- !u!114 &-2191023126999889894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363027950000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2003693799676698156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362068180000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1714291670404988264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MainMenu/UI/buttonReturn
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenu/UI/buttonReturn
+  guid: 4149c6ef7ea8cf4e90e2f572caf8a729
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2400
+--- !u!114 &-1446937072314592274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362190600000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1405153471198111154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363013050000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1367004041482917564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362562300000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1345654237050541651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/play_level_music
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/play_level_music
+  guid: 470ba7ce2ec61549a22928ef060efa5f
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 120602
+--- !u!114 &-1260275068827275206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/gp_nivel1/hitByAsteroid_gameOver
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/gp_nivel1/hitByAsteroid_gameOver
+  guid: ed067a6e7a0c7946a21f9a69537b33fe
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1490
+--- !u!114 &-1171467590195953340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362278570000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1106680436697631790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362095770000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1102021324791799412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_L
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_L
+  guid: 06b4b0c24c07bd4ea3d5429322f19da3
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2409
+--- !u!114 &-1098355557648625108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362166030000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1063359571461625080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364021730000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1053143539412057200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362199760000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-826850979949739289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/cinematic_1_linear/play_cin1_linear
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/cinematic_1_linear/play_cin1_linear
+  guid: 5cf792ad9a65534c9e9431cbbfa608c1
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 31181
+--- !u!114 &-767758755760925400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362159620000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-743419452829231110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362201600000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-712881078715038576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362203080000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-710422785015988522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362990230000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-554804830584358762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362831660000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-437272542740818572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362993650000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-281165071714587844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364040270000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-148364710666982074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel2_Stars/starTrav_VoxAndCaptured
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel2_Stars/starTrav_VoxAndCaptured
+  guid: efd075c51293e948a753063af455fe64
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4061
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 5128050583324558921}
+  - {fileID: -7749094852651348548}
+  EditorEvents:
+  - {fileID: -6120118372501925568}
+  - {fileID: 6379138584240249450}
+  - {fileID: 7210851107525074374}
+  - {fileID: -7976203422436875486}
+  - {fileID: -6028667077510758861}
+  - {fileID: 5628833191593300511}
+  - {fileID: -2862911241972790689}
+  - {fileID: -6526005428859702062}
+  - {fileID: -6813597061920367970}
+  - {fileID: -3356833908950195803}
+  - {fileID: 3836459207029772996}
+  - {fileID: -826850979949739289}
+  - {fileID: 1318962066158867620}
+  - {fileID: 7564734654594835767}
+  - {fileID: 5792496048008207659}
+  - {fileID: -4642784004967427021}
+  - {fileID: 5702069388612400646}
+  - {fileID: -7697624494266016043}
+  - {fileID: 3299070935140409569}
+  - {fileID: 4799050962611425213}
+  - {fileID: -5475764125809469963}
+  - {fileID: -9117524736574381296}
+  - {fileID: -9168056447335349206}
+  - {fileID: -8461158498654969840}
+  - {fileID: 9021117856492461128}
+  - {fileID: -8295977484227398092}
+  - {fileID: -3138881142261437126}
+  - {fileID: -3389804141175119339}
+  - {fileID: -3373654064241981618}
+  - {fileID: 7857589581143811021}
+  - {fileID: 2048936218279687705}
+  - {fileID: -5726984062443438998}
+  - {fileID: 273511479084638335}
+  - {fileID: -6708119466337110482}
+  - {fileID: 1032931910203483772}
+  - {fileID: 3268653936969738406}
+  - {fileID: -3721446888344412665}
+  - {fileID: -6608481280360475808}
+  - {fileID: 1512475509038465165}
+  - {fileID: 3435504663115838063}
+  - {fileID: -8677506262202703014}
+  - {fileID: -5406123351045237372}
+  - {fileID: -5756654377976382561}
+  - {fileID: -6212906603277610973}
+  - {fileID: -6231491915100394118}
+  - {fileID: 952428455145689664}
+  - {fileID: 4299327074380481888}
+  - {fileID: -148364710666982074}
+  - {fileID: 4222655457221329678}
+  - {fileID: 5320528978514364605}
+  - {fileID: 6803674930365930032}
+  EditorParameters:
+  - {fileID: -8276063448753767813}
+  MasterBanks:
+  - {fileID: -7749094852651348548}
+  StringsBanks:
+  - {fileID: 5128050583324558921}
+  stringsBankWriteTime: 637365721760000000
+  cacheVersion: 3
+--- !u!114 &195740917264022198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359562410000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &220157456920804390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362862160000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &224588798368679075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362197160000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &273511479084638335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/Lasers/LaserBlast_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/Lasers/LaserBlast_L
+  guid: 06b4b0c24c07bd4ea3d5429322f19da3
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1067
+--- !u!114 &316388230960820639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364073280000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &341546265159990126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362499470000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &502701127145242188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362431040000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &586655274580320796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362995340000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &762861445767219103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362564260000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &952428455145689664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/cleanersAction/cleanersAction_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/cleanersAction/cleanersAction_C
+  guid: 6fb7ad449cc9a240913d3a371b17c4b2
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4254
+--- !u!114 &956052844756925275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362957110000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &995520353454504215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362200530000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1032931910203483772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/gp_nivel1/hitByAsteroid
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/gp_nivel1/hitByAsteroid
+  guid: 3426484d53df7b46b62751ead94e91b0
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1439
+--- !u!114 &1084315076416998020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362876120000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1221438591754492652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MainMenu/play_mm_music
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenu/play_mm_music
+  guid: 67b140f1639f8945af04b759ff7f5845
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 168542
+--- !u!114 &1277462185137009114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362977590000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1318962066158867620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/play_winner_3
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/play_winner_3
+  guid: bc59d4a8dc075f4badb0bedbc3a5e1ef
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2136
+--- !u!114 &1512475509038465165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/alienStamp/alienStamp_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/alienStamp/alienStamp_C
+  guid: 98c036da8258564293f7ec428d497933
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 990
+--- !u!114 &1543041370865816217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362985420000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1565235618917915073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362880790000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1659048208564513787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_C
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_C
+  guid: 9a9fbced4c52264c9ba7314b56179ff0
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2409
+--- !u!114 &1663992678201750662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362552150000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1746745156284161802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363039400000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1788669247550354960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359693720000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1913605939280322591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362991760000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1932868746693210583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363027200000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2048936218279687705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_4/play_bgs_space_instrucciones_4
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_4/play_bgs_space_instrucciones_4
+  guid: d1aa9d07d7ae744e8dc8270238ad41b6
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 25500
+--- !u!114 &2173105959411935059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363030760000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2181826266591613871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_R
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/lasersAndAsteroids/Lasers/LasterBlast_R
+  guid: 2723f5b0483f224cb4f0b94379785ba9
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2409
+--- !u!114 &2268457518663528277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362944180000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2394245015027173375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362167910000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2399041689366016651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637361466020000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2499932490873744954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359673980000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2633897632034092761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362102450000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2817049581589387055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362538740000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2993084256010568995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364904650000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3022747183301467218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &3025627049297311016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364087430000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3137719774433068695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362276100000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3153191987907599920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  guid: 2cc327284caedd4688d18f28cf7cd178
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1350
+--- !u!114 &3212715206541738752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362970740000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3268653936969738406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/Lasers/LaserBlast_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/Lasers/LaserBlast_C
+  guid: 9a9fbced4c52264c9ba7314b56179ff0
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1018
+--- !u!114 &3293103157196620856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362150120000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3299070935140409569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/LevelMusic/play_level_music
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/LevelMusic/play_level_music
+  guid: 470ba7ce2ec61549a22928ef060efa5f
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 117723
+--- !u!114 &3435504663115838063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel3_Aliens/alienStamp/alienStamp_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel3_Aliens/alienStamp/alienStamp_L
+  guid: a3b38b36db77fc44a2a877a29238e4b8
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1178
+--- !u!114 &3691602533056360989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359631640000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3693608486440465309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &3739934652882777712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  guid: ce05448c9483b54aaa7f3bb1cfbb307d
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1350
+--- !u!114 &3746647454656567024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362552770000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3793286675970502844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/gp_nivel1/hitByAsteroid
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/gp_nivel1/hitByAsteroid
+  guid: 3426484d53df7b46b62751ead94e91b0
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1439
+--- !u!114 &3836459207029772996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/LevelMusic/stop_level_music_1
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/LevelMusic/stop_level_music_1
+  guid: 589d7aca7cfe3948a13ae4ffc6e0a954
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6000
+--- !u!114 &3858546260401186059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359821900000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4131453912639330660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362937180000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4152815424318752301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362280780000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4180506338723358552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362551420000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4215743769917385566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365450630000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4222655457221329678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_C
+  guid: 2cc327284caedd4688d18f28cf7cd178
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1350
+--- !u!114 &4299327074380481888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel2_Stars/fuelPumpAndStarDestroyed
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel2_Stars/fuelPumpAndStarDestroyed
+  guid: 93dc754d09c2e544804182a04ddde946
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2696
+--- !u!114 &4400390637721400535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362163210000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4450798018623488691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362141970000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4566638859445392430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363027700000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4677739853256754882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363181690000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4799050962611425213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/shipElev_engine
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/shipElev_engine
+  guid: 2e0d88952bcad14e926603ecf40ad3f4
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 55
+--- !u!114 &4830489196428714321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362513520000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4992657602681581555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363041830000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5121574830164954352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362353220000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5128050583324558921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637365721760000000
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3586
+  Exists: 1
+--- !u!114 &5320528978514364605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  guid: 40731b0ee94396418e6ef6ac6ad17120
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1350
+--- !u!114 &5519325657253354223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637361530090000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5628833191593300511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/shipElev_and_Loop
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/shipElev_and_Loop
+  guid: cef14fc1355fcf48a1c8a74b83e5e089
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 100
+--- !u!114 &5635697223074773224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362941990000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5702069388612400646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/cinematicElements/play_alarm_3
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/cinematicElements/play_alarm_3
+  guid: e714bf82d2de1f4f9f89d150f62d261d
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 7575
+--- !u!114 &5792496048008207659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/LevelMusic/stop_level_music_2
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/LevelMusic/stop_level_music_2
+  guid: ca5d75cab067f34aa78bb91f8778513e
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6000
+--- !u!114 &5948904253615904052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &5993933780264678102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637361466630000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6059475530961889108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_5/play_bgs__instrucciones_5
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_5/play_bgs__instrucciones_5
+  guid: d352330db704cc49a8e1e8328eed782a
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 10500
+--- !u!114 &6168309505924842441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362124430000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6230790321565145850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &6257045680326378704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362323380000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6361106282436091991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359689380000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6379138584240249450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/cinematic_takeOff/play_instrucciones_1
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/cinematic_takeOff/play_instrucciones_1
+  guid: 49ba2e89e3d6a34d8a6752e0aeb8c8ce
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13607
+--- !u!114 &6468220760507357387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362146030000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6546493663873273445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362117780000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6707627926824672873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LaserBlast_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/Lasers/LaserBlast_L
+  guid: 06b4b0c24c07bd4ea3d5429322f19da3
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2409
+--- !u!114 &6803674930365930032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  guid: ce05448c9483b54aaa7f3bb1cfbb307d
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1350
+--- !u!114 &6896767241426658879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362907310000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6943516558863376060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362203930000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7091352031480658653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637364101370000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7210851107525074374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/fullTakeOff/takeOff/spaceshipAction/shipSlowMov_and_Loop
+  m_EditorClassIdentifier: 
+  Path: event:/fullTakeOff/takeOff/spaceshipAction/shipSlowMov_and_Loop
+  guid: 8e31d081ca7e214ba9d93b4e8f77bd47
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6541
+--- !u!114 &7241660434133073514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362327650000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7349171785454617424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359685400000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7470613570149220885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &7506227744398916856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1_Asteroids/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  guid: 40731b0ee94396418e6ef6ac6ad17120
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1350
+--- !u!114 &7564734654594835767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Gameplay/LevelMusic/play_level_music_full
+  m_EditorClassIdentifier: 
+  Path: event:/Gameplay/LevelMusic/play_level_music_full
+  guid: c400a176839d6745b685ec7c905893f8
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3372
+--- !u!114 &7627735691044903395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363240300000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7733992940416137747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &7820902783954520867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362939750000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7857589581143811021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cinematicas/instrucciones_3/play_bgs_instrucciones_4
+  m_EditorClassIdentifier: 
+  Path: event:/cinematicas/instrucciones_3/play_bgs_instrucciones_4
+  guid: 83bd3036b3f4554885e01b4658ee416c
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 10500
+--- !u!114 &8073581562556981753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637359701830000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8083006246750261635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362204910000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8603264940548673729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/miniGames/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  m_EditorClassIdentifier: 
+  Path: event:/miniGames/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_R
+  guid: 40731b0ee94396418e6ef6ac6ad17120
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1350
+--- !u!114 &8702624012390333179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362948460000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8738710476987879528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637363200410000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8805055702017302638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  m_EditorClassIdentifier: 
+  Path: event:/Nivel1/lasersAndAsteroids/AsteroidExpl/AsteroidExpl_L
+  guid: ce05448c9483b54aaa7f3bb1cfbb307d
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1350
+--- !u!114 &8952945849007178444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365757760000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &8969577409466311517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362139410000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8990104414980233786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362198670000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9021117856492461128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/mainMenu/mainMenu_music/play_mm_music
+  m_EditorClassIdentifier: 
+  Path: event:/mainMenu/mainMenu_music/play_mm_music
+  guid: 67b140f1639f8945af04b759ff7f5845
+  Banks:
+  - {fileID: -7749094852651348548}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 168542
+--- !u!114 &9033723181394972355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637365451610000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9060971537752020404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0
+--- !u!114 &9091592994301941598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MainMenu/UI/buttonRArrow
+  m_EditorClassIdentifier: 
+  Path: event:/MainMenu/UI/buttonRArrow
+  guid: 0a8f92eb18897f42b08eb3a14d908279
+  Banks: []
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1358
+--- !u!114 &9104091241538896939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362821990000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9105718768933080055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ASTRO_FMOD/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637362202800000000
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9185047722595547517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: motiv_container
+  m_EditorClassIdentifier: 
+  Name: motiv_container
+  Min: 0
+  Max: 4
+  Default: 0
+  Exists: 0

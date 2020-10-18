@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{07a989e7-608d-45b4-b1a2-487209d65258}">
+		<property name="assetPath">
+			<value>secInteractivas/bgs_takeOff/bgs_earth_takeOff/sec_spaceship_loop_ASTRO_02_bgs__06_Calm_Pine_Forest_Wind_combinado.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>54</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9f3445a9-cbd7-48a6-999f-e99b596e69c1}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EffectPreset" id="{c99de7c2-cf39-4ba5-88b1-d9766c1680fb}">
+		<property name="name">
+			<value>Multiband EQ</value>
+		</property>
+		<relationship name="folder">
+			<destination>{58fdf966-1c34-4201-acb6-5c9caa901af6}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{46fac987-83fb-4771-942f-2bdbe5175a06}</destination>
+		</relationship>
+	</object>
+	<object class="MultibandEqEffect" id="{46fac987-83fb-4771-942f-2bdbe5175a06}">
+		<property name="filterTypeA">
+			<value>9</value>
+		</property>
+		<property name="filterTypeB">
+			<value>9</value>
+		</property>
+		<property name="filterTypeC">
+			<value>9</value>
+		</property>
+		<property name="filterTypeD">
+			<value>11</value>
+		</property>
+		<property name="filterTypeE">
+			<value>8</value>
+		</property>
+		<property name="frequencyA">
+			<value>172.521454</value>
+		</property>
+		<property name="frequencyB">
+			<value>2770.78125</value>
+		</property>
+		<property name="frequencyC">
+			<value>371.344147</value>
+		</property>
+		<property name="frequencyD">
+			<value>10876.3604</value>
+		</property>
+		<property name="frequencyE">
+			<value>4462.32178</value>
+		</property>
+		<property name="qualityB">
+			<value>2.29999995</value>
+		</property>
+		<property name="qualityD">
+			<value>1.71702492</value>
+		</property>
+		<property name="gainA">
+			<value>18.5590477</value>
+		</property>
+		<property name="gainB">
+			<value>11.2784386</value>
+		</property>
+		<property name="gainC">
+			<value>9.19826698</value>
+		</property>
+		<property name="gainE">
+			<value>0.877572298</value>
+		</property>
+	</object>
+</objects>

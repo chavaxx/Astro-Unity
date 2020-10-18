@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EventFolder" id="{c84609ed-0912-494e-b373-af64d5e60def}">
+		<property name="name">
+			<value>cinematic_takeOff</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6d876ca6-d36e-4da5-ba20-d9070b208fa5}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a58fe540068ac4a98064555c67338e, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  userDataPieces:
+  - date: 09/09/2020 08:51:39 p. m.
+    userName: player
+    inputTime: 1.21319
+    level: Asteroides
+    buttonPressed: violet
+    episode: facil
+  - date: 09/09/2020 08:51:41 p. m.
+    userName: player
+    inputTime: 2.275652
+    level: Asteroides
+    buttonPressed: blue
+    episode: facil
+  - date: 09/09/2020 08:51:43 p. m.
+    userName: player
+    inputTime: 2.2090654
+    level: Asteroides
+    buttonPressed: blue
+    episode: facil
+  - date: 09/09/2020 08:51:45 p. m.
+    userName: player
+    inputTime: 1.8107523
+    level: Asteroides
+    buttonPressed: violet
+    episode: facil
+  - date: 09/09/2020 08:51:47 p. m.
+    userName: player
+    inputTime: 1.8183424
+    level: Asteroides
+    buttonPressed: yellow
+    episode: facil
